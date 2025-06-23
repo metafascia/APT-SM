@@ -1,0 +1,37 @@
+Action Potential Terrain Solar Module (APT-SM)
+===============================================
+
+Author: [Your Name]
+Date of Public Release: [Fill in the date you publish]
+
+Overview:
+---------
+The APT-SM is a novel photovoltaic architecture that mimics neural excitation behavior to propagate photonic energy laterally across a terrain-encoded surface. Unlike traditional solar cells which rely on vertical carrier extraction, this system introduces cascading excitation logic inspired by action potentials in neurons.
+
+Key Features:
+-------------
+- Terrain-based logic encoding
+- Lateral excitation and conduction pathways
+- Threshold-controlled Logical Terrain Units (LTUs)
+- Photonic cascade amplification
+- Modular, stackable, and fabrication-flexible design
+
+Repository Contents:
+--------------------
+- LICENSE.txt: Open Hardware Knowledge Commons License
+- timestamp.txt: Timestamp of original release
+- Technical schematic(s): Include in repo if not embedded here
+- Fabrication Guide: Full details for substrate, terrain logic, and routing
+- ROI & Efficiency Analysis (optional)
+
+Installation / Usage:
+---------------------
+This is a physical photovoltaic design and not software. However, for simulations or integrations:
+- Use terrain logic schematics with standard SPICE or PV modeling tools
+- Refer to the Fabrication Guide for material layer construction
+- License terms allow free commercial and academic use with attribution
+
+Contact:
+--------
+Christopher Wood
+metafascia@gmail.com
